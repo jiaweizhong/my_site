@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+
+    color: #40514E;
+    text-align: center;
+    font-family: 'Lato', serif;
+}
+
+h1{
+    font-size: 3.8rem;
+    margin: 35px auto 0 auto;
+
+    font-family: 'Lato', sans-serif;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.skill-row, .work-row{
+    width: 50%;
+    margin: 35px auto 35px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    color: #66BFBF;
+}
+
+h3{
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #11999E;
+    padding-top: 10px;
+}
+
+h5{
+    clear: left;
+    margin-left: 10px;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px, auto, 100px, auto;
+}
+
+.introMoto{
+    font-weight: normal;
+}
+
+img.profile_png{
+    border-radius: 50%;
+    width: 20%;
+    margin: 35px auto 0 auto;
+}
+
+img.content-img{ 
+    width: 180px;
+    margin-top: 30px;
+
+}
+
+.logo{
+    float: left;
+    width: 25%;
+    margin-right: 20px;
+}
+ul{
+    clear: left;
+    margin-top: 15px;
+}
+.copyright{
+    color: #EAF6F6;
+    font: 0.75rem;
+}
+
