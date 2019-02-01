@@ -33,6 +33,10 @@ h3{
     font-family: 'Merriweather Sans', sans-serif;
     color: #11999E;
     padding-top: 10px;
+    vertical-align: middle;
+    display: inline-block;
+    padding-bottom: 5px;
+    float: none;
 }
 
 h5{
@@ -53,20 +57,22 @@ hr{
 
 img.profile_png{
     border-radius: 50%;
-    width: 20%;
+    width: 15%;
     margin: 35px auto 0 auto;
 }
 
-img.content-img{ 
+img.content-img{
     width: 180px;
     margin-top: 30px;
-
 }
 
 .logo{
     float: left;
     width: 25%;
     margin-right: 20px;
+    vertical-align: middle;
+    display: inline-block;
+    float: none;
 }
 ul{
     clear: left;
@@ -76,4 +82,3 @@ ul{
     color: #EAF6F6;
     font: 0.75rem;
 }
-
